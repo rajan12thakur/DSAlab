@@ -1,6 +1,5 @@
-Here's a template for a README file for a GitHub repository of DSA (Data Structures and Algorithms) college lab practicals:
 
----
+
 
 # DSA Lab Practicals 🖥️📚
 
