@@ -7,7 +7,7 @@ Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repositor
 
 ---
 
-## 📌 **Contents**
+## 📌 Contents
 
 - **Sorting Algorithms**: Bubble Sort, Quick Sort, Merge Sort, etc.
 - **Searching Algorithms**: Linear Search, Binary Search, etc.
@@ -100,21 +100,6 @@ Contributions are welcome! If you want to add new programs or improve existing o
    ```
 5. Open a pull request.
 
----
 
-## 📝 **License**
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-## 🤝 **Acknowledgments**
-
-- Thanks to our college professors and mentors for guidance.
-- Inspired by classic DSA textbooks and online resources.
-
-Happy Coding! 🎉
-
---- 
-
-Feel free to adjust the structure or add any additional sections specific to your repository.
