@@ -81,7 +81,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🚀 **Contributing**
+## 🚀 **Contributing*
 
 Contributions are welcome! If you want to add new programs or improve existing ones:
 
