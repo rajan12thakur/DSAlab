@@ -48,7 +48,7 @@ Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repositor
      python3 <filename>.py
      ```
 
----
+--
 
 ## 📁 **Repository Structure**
 
