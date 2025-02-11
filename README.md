@@ -95,7 +95,7 @@ Contributions are welcome! If you want to add new programs or improve existing o
    git commit -m "Add your message here"
    ```
 4. Push to the branch:
-   ```bash
+   ``bash
    git push origin feature/your-feature-name
    ```
 5. Open a pull request.
