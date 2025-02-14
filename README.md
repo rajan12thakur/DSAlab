@@ -29,7 +29,7 @@ Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repositor
    Each practical is organized into folders based on topics or weeks.
    ```bash
    cd dsa-lab-practicals/<topic-or-week-folder>
-   ```
+   ``
 3. **Compile and Run Programs**:
    Use your favorite IDE or a command-line compiler.
    - **C**:
