@@ -21,7 +21,7 @@ Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repositor
 
 #💻 How to Use This Repository
 
-1. **Clone the Repository**:
+1. *Clone the Repository**:
    ``bash
    git clone https://github.com/your-username/dsa-lab-practicals.git
    ```
