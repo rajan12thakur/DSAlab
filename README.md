@@ -70,7 +70,7 @@ dsa-lab-practicals/
 
 ---
 
-## 🛠️ **Prerequisites**
+## 🛠️ *Prerequisites**
 
 Make sure you have the following installed:
 
