@@ -2,7 +2,7 @@
 
 # DSA Lab Practical
 
-Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repository! This repository contains the practical programs and solutions for the DSA lab, typically undertaken during college-level courses.
+Welcome to the **Data Structures and Algorithms (DSA) Lab Practicals** repository! This repository contains the practical programs and solutions for the DSA lab, typically undertaken during college-level courses
 
 
 
